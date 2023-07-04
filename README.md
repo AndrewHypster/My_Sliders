@@ -5,7 +5,7 @@ ___
 ## __First Slider__
 **/** _03.07.2023 - 0.4.07.2023 18:37_ **/**
 
-[**Силка на сайт**](https://andrewhypster.github.io/My_Sliders/first/build/index.html)
+`->` [**Силка на сайт**](https://andrewhypster.github.io/My_Sliders/first/build/index.html) `<-`
 
 **`Технології:`**
 - React useState
